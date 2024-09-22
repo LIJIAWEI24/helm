@@ -6,9 +6,9 @@ entries:
     created: "2024-09-23T01:01:25.224166754+08:00"
     description: A Helm chart for Kubernetes
     digest: 3a9ca78ecd9753c580b7b9fe5b642b2448a4b4b7f1dc8ddee1c95322eee8462e
-    name: mychart
+    name: helm
     type: application
     urls:
-    - git@github.com:LIJIAWEI24/helm.git/mychart/mychart-0.1.0.tgz
+    - git@github.com:LIJIAWEI24/helm.git/helm/mychart-0.1.0.tgz
     version: 0.1.0
 generated: "2024-09-23T01:01:25.223557121+08:00"
